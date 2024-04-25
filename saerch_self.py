@@ -131,7 +131,7 @@ def next_days(days_add) :
                 kc.append(w['kcmc'])
                 cd.append(w['cdmc'])
                 jc.append(w['jc'])
-                if w['zcd'] not in class_time_list.keys() :
+                if w['jc'] not in class_time_list.keys() :
                     #print(w['jc'])
                     class_time.append(unmentioned_class_time_keys(w['jc']))
                 else :
