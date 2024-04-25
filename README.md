@@ -11,13 +11,21 @@
 
 
 使用方法：
+
 1.拉取代码，抓包获取学校的课表json文件放到相同目录
+
 2.sudo su（可选操作）
+
 3.screen -S wxpush #建立一个叫wxpush的screen，方便后续维护，wxpush可以随意替换你想要的名字
+
 4.python3 pusher.py
+
 恢复screen：
+
 screen -r wxpush
+
 以下为实现功能演示：
+
 /next 功能
 
 ![image](https://github.com/guesserx/cdutetc_class_push/blob/main/2024-04-25_235554.png)
