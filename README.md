@@ -4,7 +4,12 @@
 边学边写的，代码较乱，请见谅
 
 
-以下为实现功能：
+如果您认为该仓库的任何代码侵犯了您的利益，请及时联系我：abuse@6688669.xyz
+
+
+如果有任何想法或需要帮助，欢迎联系：chat@6688669.xyz
+
+以下为实现功能演示：
 /next 功能
 
 ![image](https://github.com/guesserx/cdutetc_class_push/blob/main/2024-04-25_235554.png)
