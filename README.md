@@ -10,4 +10,4 @@
 /today_now和/now，/next_class和前者功能相似，此处不演示
 ![image](https://github.com/guesserx/cdutetc_class_push/blob/main/2024-04-25_235941.png)
 /send和/receive 收发消息
-![image](https://github.com/guesserx/cdutetc_class_push/blob/main/2024-04-25_235554.png)
+![image](https://github.com/guesserx/cdutetc_class_push/blob/main/2024-04-26_000219.png)
